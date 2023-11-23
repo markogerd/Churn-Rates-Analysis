@@ -1,1 +1,2 @@
 # Churn-Rates-Analysis
+This is my first ever data analysis project. I used the analysis and presentation for an assignment for my Econometrics class. My main goal was to find demographics of customers which are likely to churn. I think that this type of analysis could be useful for a bank or other firm which is concerned with churn rates as they could consider targeting the demographics most likely to churn with long-term offers that strenghten brand loyaly.
